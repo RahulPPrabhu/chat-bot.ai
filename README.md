@@ -1,8 +1,12 @@
+### Install the necessary packages
+
 ```
 npm install
 # or
 yarn install
 ```
+
+### Replace .env and .env.local GROQ_API_KEY with the your key
 
 ## Getting Started
 
